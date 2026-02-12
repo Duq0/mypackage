@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: mypackage
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/Duq0/mypackage
+Author: Duq0
+Author-email: daivdaib@gmail.com
+License: MIT
+Requires-Dist: numpy
